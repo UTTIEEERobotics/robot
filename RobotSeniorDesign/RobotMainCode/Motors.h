@@ -27,5 +27,6 @@ void onlyLeft(float in);
 void onlyRight(float in);
 void cw(float deg);
 void ccw(float deg);
+void box();
 
 #endif

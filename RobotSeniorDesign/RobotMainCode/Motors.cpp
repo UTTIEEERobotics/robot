@@ -40,6 +40,17 @@ void go(float steps)
 	}
 }
 
+void box()
+{
+	for(int i = 0; i < 4; i++)
+	{
+		forward(12);
+		delay(1000);
+		cw(90);
+		delay(1000);
+	}
+}
+
 void forward(float in)
 {
 	if(ENABLE_LOG_MOTORS)

@@ -72,6 +72,47 @@ void loop()
 		}
 		exitVal = true;
     }
+	//forward(12);
+	//delay(1000);
+	//incCellIndex();
+//
+	//adjustOrientation();
+	//adjustSidePosition();
+	//adjustFrontBackPosition();
+//
+	//ccw(90);
+	//delay(500);
+//
+	//forward(12);
+	//delay(1000);
+	//upRow();
+	//cw(90);
+//
+	//adjustOrientation();
+	//adjustSidePosition();
+	//adjustFrontBackPosition();
+//
+	//backward(12);
+	//delay(1000);
+	//incCellIndex();
+//
+	//adjustOrientation();
+	//adjustSidePosition();
+	//adjustFrontBackPosition();
+//
+	//ccw(90);
+	//delay(500);
+//
+	//backward(12);
+	//delay(1000);
+	//downRow();
+	//cw(90);
+//
+	//adjustOrientation();
+	//adjustSidePosition();
+	//adjustFrontBackPosition();
+//
+	//delay(5000);
 }
 
 
